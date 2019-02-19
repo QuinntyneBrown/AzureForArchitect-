@@ -8,4 +8,5 @@ Azure for Architect
 * Azure Functions
 * Application Insights
 * Docker / Service Fabric Mesh
+  - What is Docker?
 * Azure Dev Ops
