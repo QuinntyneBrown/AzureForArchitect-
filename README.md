@@ -2,6 +2,8 @@
 Azure for Architect 
 
 1. Data Storage
+  - SQL Database
+  - Storage
 2. Event Grid
 3. Azure Functions
 4. Application Insights
