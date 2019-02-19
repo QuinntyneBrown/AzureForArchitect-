@@ -1,4 +1,4 @@
-# Azure For Architect-
+# Azure For Architects
 Azure for Architect 
 
 * Data Storage
